@@ -95,6 +95,9 @@ To manage users, you can use the [Cognito Users Pool console](https://console.aw
 
 To remove the application open the AWS CloudFormation Console, click the PPE Demo project, right-click and select "_Delete Stack_". Your stack will take some time to be deleted. You can track its progress in the "Events" tab. When it is done, the status will change from "_DELETE_IN_PROGRESS_" to "_DELETE_COMPLETE_". It will then disappear from the list.
 
+## Survey
+Please help us to provide your feedback [here](https://amazonmr.au1.qualtrics.com/jfe/form/SV_3fNc9oH4ql0guCq?Session=HAN5). Participants who complete the surveys from AWS Innovate Online Conference – AI/ML Edition will receive a gift code for USD25 in AWS credits. AWS credits will be sent via email by 31 March, 2022.
+
 ## License Summary
 
 This library is licensed under the MIT-0 License. See the LICENSE file.
